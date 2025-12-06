@@ -4,7 +4,7 @@
 
 ###
 <h2 class="heading-element" dir="auto">Hi! 👋 I'm Victor</h2>
-<h3 align="center">A future software engineer from Brazil<br></h3>
+<h3 align="center">Abandon all hope, ye who enter here<br></h3>
 <h2 class="heading-element" dir="auto">About me</h2>
 <ul dir="auto">
 <li>✨ Creating bugs in my life since 1992.</li>
