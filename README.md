@@ -10,7 +10,7 @@
 <li>✨ Creating bugs in my life since 1992.</li>
 <li>📚 I'm currently learning english <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a30c0ac4af6d7907d3ae7d030b64bb1b80a80417617eac55dc42ebe5bf5f20d/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373438342e706e67"><img src="https://camo.githubusercontent.com/7a30c0ac4af6d7907d3ae7d030b64bb1b80a80417617eac55dc42ebe5bf5f20d/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373438342e706e67" width="17" data-canonical-src="https://cdn-icons-png.flaticon.com/128/197/197484.png" style="max-width: 100%;"></a>  and how to deal with Code Challenges.  🐳</li>
 <li>🎯 Goals: live in a cold place. ❄</li>
-<li>🎲 And ... I play 🎸 guitar and 🔥Souls Like games.</li>
+<li>🎲 And ... I play 🔥Souls Like games.</li>
 </ul>
 
 
