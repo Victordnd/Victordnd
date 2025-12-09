@@ -1,7 +1,7 @@
 
 ###
 <h2 class="heading-element" dir="auto">Hi! 👋 I'm Victor</h2>
-<h3 align="center">Stay a while and listen<br></h3>
+<h3 align="center">Stay a while and listen...<br></h3>
 <h2 class="heading-element" dir="auto">About me</h2>
 <ul dir="auto">
 <li>✨ Creating bugs in my life since 1991.</li>
