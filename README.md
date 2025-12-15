@@ -1,7 +1,10 @@
-
 ###
 <h2 class="heading-element" dir="auto">Hi! 👋 I'm Victor</h2>
 <h3 align="center">Stay a while and listen...<br></h3>
+<div align="center">
+  <a href="https://github.com/victordnd">
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordnd&layout=compact&hide=Astro&hide_border=true&theme=dark&cache_seconds=1"/>
+  </a>
 <h2 class="heading-element" dir="auto">About me</h2>
 <ul dir="auto">
 <li>✨ Creating bugs in my life since 1991.</li>
@@ -47,3 +50,4 @@
 <div align="center">
   <img height="200" src="https://pa1.aminoapps.com/6322/63ae2c97d2290ac2bd61e4489d98c5bafe515491_00.gif"  />
 </div>
+
