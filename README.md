@@ -3,7 +3,7 @@
 <h3 align="center">Stay a while and listen...<br></h3>
 <div align="center">
   <a href="https://github.com/victordnd">
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordnd&layout=compact&hide=Astro&hide_border=true&theme=dark&cache_seconds=1"/>
+    <img height="200em"  src="https://i.redd.it/x8rip0zu8vbe1.gif"/>
   </a>
 <h2 class="heading-element" dir="auto">About me</h2>
 <ul dir="auto">
