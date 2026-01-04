@@ -1,5 +1,5 @@
 ###
-<h2 class="heading-element" dir="auto">Hi! 👋 I'm Victor</h2>
+<h2 class="heading-element" dir="auto">Hi!  👋 I'm Victor</h2>
 <h3 align="center">Stay a while and listen...<br></h3>
 <div align="center">
   <a href="https://github.com/victordnd">
