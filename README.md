@@ -28,6 +28,8 @@
 ###
 <h2 class="heading-element" dir="auto">I Work with...</h2>
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
